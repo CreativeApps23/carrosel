@@ -1,6 +1,7 @@
-# Projeto Carrosel html, css e js
+# Projeto Carrosel - Portifólio
+Criando um **carrosel** _responsivo._
 
 ## Módulos:
-Criando extrutura do projeto
-Trabalhando com css
-Trabalhando com js
+HTML
+CSS
+JS

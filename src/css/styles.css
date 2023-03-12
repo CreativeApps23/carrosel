@@ -55,7 +55,7 @@ main::after{
     border-color: #fff;
 }
 
-.botoes-carrossel .botao.clicado{
+.botoes-carrossel .botao.selecionado{
     background-color: #1d8346;
 }
 
@@ -100,7 +100,7 @@ main::after{
     height: 100vh;
     object-fit: cover;
     display: none;
-    animation: mudarImagemns 0.7s;
+    animation: mudarImagens 0.7s;
 }
 
 .carrosel .imagem.ativa{
